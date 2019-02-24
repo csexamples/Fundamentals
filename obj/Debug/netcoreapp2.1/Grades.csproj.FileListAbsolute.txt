@@ -1,0 +1,11 @@
+/Users/mindaugaslazauskas/Projects/Grades/Grades/bin/Debug/netcoreapp2.1/Grades.deps.json
+/Users/mindaugaslazauskas/Projects/Grades/Grades/bin/Debug/netcoreapp2.1/Grades.runtimeconfig.json
+/Users/mindaugaslazauskas/Projects/Grades/Grades/bin/Debug/netcoreapp2.1/Grades.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/Projects/Grades/Grades/bin/Debug/netcoreapp2.1/Grades.dll
+/Users/mindaugaslazauskas/Projects/Grades/Grades/bin/Debug/netcoreapp2.1/Grades.pdb
+/Users/mindaugaslazauskas/Projects/Grades/Grades/obj/Debug/netcoreapp2.1/Grades.csprojAssemblyReference.cache
+/Users/mindaugaslazauskas/Projects/Grades/Grades/obj/Debug/netcoreapp2.1/Grades.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/Projects/Grades/Grades/obj/Debug/netcoreapp2.1/Grades.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/Projects/Grades/Grades/obj/Debug/netcoreapp2.1/Grades.AssemblyInfo.cs
+/Users/mindaugaslazauskas/Projects/Grades/Grades/obj/Debug/netcoreapp2.1/Grades.dll
+/Users/mindaugaslazauskas/Projects/Grades/Grades/obj/Debug/netcoreapp2.1/Grades.pdb
